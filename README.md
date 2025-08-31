@@ -1,4 +1,5 @@
 # First
-Name: jeniru
-country: Sri lanka
-age: 14
+
+- **Name:** Jeniru  
+- **Age:** 14
+- **Country:** Sri Lanka  
